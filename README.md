@@ -108,6 +108,8 @@ This project answers the following business questions:
 > 6. 🏷️ Which customer segments create the highest business value?
 > 7. 💡 What strategies can improve customer retention and revenue?
 
+For a detailed report, refer to the [Executive Report (PDF)](Executive%20Report.pdf).
+
 ---
 
 ## 📊 Key Findings
