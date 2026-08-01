@@ -114,17 +114,6 @@ This project answers the following business questions:
 
 ### 📅 Monthly Performance
 
-<p align="center">
-  <img src="charts /Monthly Revenue Trend.png" width="80%" alt="Monthly Revenue Trend"/>
-</p>
-
-<p align="center">
-  <img src="charts /Month-over-Month Revenue Growth.png" width="80%" alt="MoM Revenue Growth"/>
-</p>
-
-<p align="center">
-  <img src="charts /Monthly Average Order Value.png" width="80%" alt="Monthly AOV"/>
-</p>
 
 - Revenue showed **seasonal fluctuations** throughout the year.
 - Sales **peaked during October and November**, indicating strong holiday-season demand.
@@ -135,9 +124,6 @@ This project answers the following business questions:
 
 ### 👤 Customer Analysis
 
-<p align="center">
-  <img src="charts /Top 10 Customers by Revenue.png" width="80%" alt="Top 10 Customers"/>
-</p>
 
 - The business serves **4,286 active customers**.
 - Customer spending is **highly skewed** — a small percentage of customers generate a disproportionately large share of revenue.
@@ -147,9 +133,6 @@ This project answers the following business questions:
 
 ### 📦 Product Analysis
 
-<p align="center">
-  <img src="charts /Top 10 Products by Revenue.png" width="80%" alt="Top 10 Products"/>
-</p>
 
 - The business sells **4,011 unique products**.
 - The highest revenue-generating product is **WHITE HANGING HEART T-LIGHT HOLDER**.
@@ -160,17 +143,6 @@ This project answers the following business questions:
 
 ### 🌍 Country Analysis
 
-<p align="center">
-  <img src="charts /Top 10 Countries by Revenue.png" width="80%" alt="Top 10 Countries by Revenue"/>
-</p>
-
-<p align="center">
-  <img src="charts /Top 10 Countries by Revenue Contribution (%).png" width="80%" alt="Revenue Contribution %"/>
-</p>
-
-<p align="center">
-  <img src="charts /Top 20 Countries by Average Order Value (AOV).png" width="80%" alt="Top 20 Countries AOV"/>
-</p>
 
 - Customers are distributed across **37 countries**.
 - The **United Kingdom dominates** business performance, contributing approximately **84% of total revenue**.
@@ -181,9 +153,6 @@ This project answers the following business questions:
 
 ### 🔄 Cohort Analysis
 
-<p align="center">
-  <img src="charts /Customer Cohort Retention (%).png" width="80%" alt="Cohort Retention Heatmap"/>
-</p>
 
 - Customer retention **declines noticeably** after the first purchase.
 - The **December 2009 cohort** demonstrates the strongest long-term retention because these customers have the longest observation period.
@@ -196,9 +165,6 @@ This project answers the following business questions:
 
 Customers were segmented using **Recency**, **Frequency**, and **Monetary Value**.
 
-<p align="center">
-  <img src="charts /Customer Distribution Across RFM Segments.png" width="80%" alt="RFM Segments"/>
-</p>
 
 #### Customer Distribution Across Segments
 
