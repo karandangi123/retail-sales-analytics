@@ -223,4 +223,6 @@ By implementing the recommended actions, the business can **enhance customer lif
 
 <p align="center">
   <b>⭐ If you found this project useful, consider giving it a star!</b>
+  <br/><br/>
+  <i>Prepared by - Karan Dangi</i>
 </p>
